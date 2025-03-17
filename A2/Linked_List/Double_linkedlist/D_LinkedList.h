@@ -22,4 +22,4 @@ node* Del_EntireList(node *head);
 int Count_Nodes(node *head);
 void Print_Reverse(node *head);
 
-#endif // D_LINKEDLIST_H_INCLUDED
+#endif 
